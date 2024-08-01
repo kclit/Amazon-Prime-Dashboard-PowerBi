@@ -14,10 +14,10 @@ This project offers a comprehensive analysis of Amazon Prime Video's industry gr
 # DATASET:
 The dataset, sourced from Kaggle, encompasses comprehensive information on Amazon Prime Video's movies and TV shows. Key statistics include:
 
-- **Total Titles**: 9,655
-- **Aggregate Ratings**: 25
+- **Total Titles**: 9,652
+- **Total Ratings**: 26
 - **Genres**: 519
-- **Directors**: 5,771
+- **Directors**: 5,770
 - **Time Span**: 1920-2021
 
 # TOOLS USED:
